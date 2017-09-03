@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.wrapper{
+	background: url(img/21269734_1678791752153764_650163740_n.png);
+	width: 960px;
+	height: 1955px;
+	margin: 0 auto;
+}
